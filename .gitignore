@@ -45,7 +45,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-# flullter 용 추가
+# flutter 용 추가
 android
 ios
 macos
